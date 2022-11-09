@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ezzineog.github.io/static/css/main.fcbcbd47.css",
+    "main.js": "/ezzineog.github.io/static/js/main.c15a7d46.js",
+    "static/js/787.47341283.chunk.js": "/ezzineog.github.io/static/js/787.47341283.chunk.js",
+    "static/media/image-product-desktop.jpg": "/ezzineog.github.io/static/media/image-product-desktop.c96d43af17111fe78e96.jpg",
+    "index.html": "/ezzineog.github.io/index.html",
+    "main.fcbcbd47.css.map": "/ezzineog.github.io/static/css/main.fcbcbd47.css.map",
+    "main.c15a7d46.js.map": "/ezzineog.github.io/static/js/main.c15a7d46.js.map",
+    "787.47341283.chunk.js.map": "/ezzineog.github.io/static/js/787.47341283.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcbcbd47.css",
+    "static/js/main.c15a7d46.js"
+  ]
+}
